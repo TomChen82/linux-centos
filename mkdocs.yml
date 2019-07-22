@@ -1,0 +1,10 @@
+site_name: My Docs
+nav:
+  - mkdocs: index.md
+  - Linux 开山篇: 0101 Linux-开山篇.md
+  - Linux 基础篇: 0201 Linux-基础篇.md
+  - Linux 实操篇: 0301 Linux-实操篇.md
+  - Linux JavaEE定制篇: 0401 Linux-javaEE定制篇.md
+  - Linux 大数据定制篇: 0501 Linux-大数据定制篇.md
+  - Linux Python定制篇:  0601 Linux-Python定制篇.md
+theme: readthedocs
